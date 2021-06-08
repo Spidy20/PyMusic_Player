@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: PyMusic-Player
+Version: 0.0.1
+Summary: A GUI Music Player with all the basic functions, which is developed using Tkinter
+Home-page: UNKNOWN
+Author: Kushal Bhavsar
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: music player python,music player tkinter,music player gui
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

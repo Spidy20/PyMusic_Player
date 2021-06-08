@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/PyMusic_Player.py
+src/PyMusic_Player.egg-info/PKG-INFO
+src/PyMusic_Player.egg-info/SOURCES.txt
+src/PyMusic_Player.egg-info/dependency_links.txt
+src/PyMusic_Player.egg-info/requires.txt
+src/PyMusic_Player.egg-info/top_level.txt
