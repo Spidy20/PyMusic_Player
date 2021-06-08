@@ -41,5 +41,8 @@ Music_Player_GUI(song_dir,icon)
   python test.py
  ```
 
+## Screenshots
+<img src="https://github.com/Spidy20/PyMusic_Player/blob/master/s1.PNG">
+
 ## Note 
 - I have tried to implement all the functionality, it might have some bugs also. Ignore that or please try to solve that bug.
