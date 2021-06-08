@@ -9,6 +9,7 @@ setup(
     version='0.0.1',
     description='A GUI Music Player with all the basic functions, which is developed using Tkinter',
     author= 'Kushal Bhavsar',
+    url = 'https://github.com/Spidy20/PyMusic_Player',
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     keywords=['music player python', 'music player tkinter', 'music player gui'],
