@@ -20,7 +20,7 @@
 - Make sure you have Python installed in your system.
 - Run Following command in the CMD.
  ```
-  pip install PyMusic_Player
+  pip install PyMusic-Player
   ```
 ## Example
 
